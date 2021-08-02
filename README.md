@@ -1,4 +1,3 @@
-# r_rakesh_roshan
 <h1 align="center">Hi , I'm Rakesh Roshan Rath </h1>
 <hr/>
 <h3 align="center">I am a Software Developer at D3X ,Completed MCA. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.Also i like Photography And Ethical Hacking...</h4>
